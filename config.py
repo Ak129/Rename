@@ -8,7 +8,7 @@ API_HASH = os.environ.get("API_HASH", "d7426fd6f91cff563d62d318a7e5aab1")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "6989442605:AAEKfz7YTfsIKclaVV6Sbh5Y9FjegCLF0Ag") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "-1002115752789") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "-1002140562507") 
 
 DB_NAME = os.environ.get("DB_NAME", "apkthugs")     
 
